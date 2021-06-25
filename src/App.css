@@ -1,0 +1,10 @@
+.abc{
+  background-color: #c4183c;
+    /* background-image: -webkit-gradient(linear,left top,right top,from(#c4183c),to(#4f37ac)); */
+    background-image: linear-gradient(to right,#c4183c,#4f37ac);
+    height: 300px;
+}
+.preserve{   
+   margin-top: 0px;
+  /* padding-top: 400px; */
+} 
